@@ -16,7 +16,7 @@
     { "id": 14, "imageURl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 },
     { "id": 15, "imageURl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 },
     { "id": 16, "imageURl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 },
-    { "id": 17, "imageURl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 },
+    { "id": 17, "imageURl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 }
   ],
   "posts": [
     { "id": 1, "body": "some comment", "postId": 1 },
