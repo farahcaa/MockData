@@ -1,5 +1,5 @@
 {
-  "search": [
+  "filter": [
     { "id": 1, "imageUrl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 },
     { "id": 2, "imageUrl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 },
     { "id": 3, "imageUrl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 },
@@ -18,9 +18,13 @@
     { "id": 16, "imageUrl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 },
     { "id": 17, "imageUrl": "https://picsum.photos/id/600/600/600", "location": "CUF", "price": 1400 }
   ],
-  "posts": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "search": [
+    { "id": 1, "userName": "SomeGuy123"},
+    { "id": 2, "userName": "SomeGuy1234" },
+    { "id": 3, "userName": "SomeGuy123"},
+    { "id": 4, "userName": "SomeGuy1234" },
+    { "id": 5, "userName": "SomeGuy123"},
+    { "id": 6, "userName": "SomeGuy1234" }
   ],
   "profile": {
     "name": "typicode"
