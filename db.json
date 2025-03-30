@@ -27,6 +27,6 @@
     { "id": 6, "userName": "SomeGuy1234" }
   ],
   "Individual": {
-    "id": 1, "userName": "SomeGuy123", "title": "I need a Roommate!", "bio" : "Hey I need a roomate thats super cool and chill to live with me in my apartment. I have a dog and a cat so you must be pet friendly!", "price" : 500, "roommates" : 4, "leaseBegin": "2025-03-30T00:48:24.297Z" , "leaseEnd" : "2025-10-30T00:48:24.297Z",   "tags": ["pet friendly","chill","cool","clean freak","no smoking","early bird",],
+    "id": 1, "userName": "SomeGuy123", "title": "I need a Roommate!", "bio" : "Hey I need a roomate thats super cool and chill to live with me in my apartment. I have a dog and a cat so you must be pet friendly!", "price" : 500, "roommates" : 4, "leaseBegin": "2025-03-30T00:48:24.297Z" , "leaseEnd" : "2025-10-30T00:48:24.297Z",   "tags": ["pet friendly","chill","cool","clean freak","no smoking","early bird"],
   }
 }
