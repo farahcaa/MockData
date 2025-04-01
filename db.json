@@ -46,6 +46,7 @@
   },
   "Profile" :{
     "userName": "SomeGuy1234",
+    "profileImage": "https://picsum.photos/id/10/600/600",
     "id": 1,
     "title": "I need a Roommate! asap asap asap",
     "image": "https://picsum.photos/id/100/600/600",
