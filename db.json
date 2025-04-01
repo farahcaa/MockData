@@ -43,6 +43,17 @@
       "no smoking",
       "early bird"
     ]
-  }
+  },
+  "Profile" :{
+    "userName": "SomeGuy1234",
+    "id": 1,
+    "title": "I need a Roommate! asap asap asap",
+    "image": "https://picsum.photos/id/100/600/600",
+    "price": 500,
+    "email": "JohnnyRockets@example.com",
+    "phone": "555-555-5555",
+    "bio": "Hey everyone, I'm Johnny! I need to get a place to stay in Cincinnati for the summer. I'm a student at UC and I'm looking for a place to stay near campus. I'm a pretty chill guy, I like to play video games and watch movies. I'm looking for a place with a private bathroom and a kitchen. I'm also looking for a place that's close to campus. I'm looking to move in by the end of May. If you have a place that fits my needs, please let me know. Thanks!😂😂",
+    "firstName" : "Johnny",
+    "lastName" : "Rockets"
 
 }
